@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  foo:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-03-02T20:01:46.511608219+01:00"
+    description: Test chart
+    digest: 97f258129f5b70c91e4eee8e32b6d595db2e336d763569d52e709a68219456ad
+    name: foo
+    type: application
+    urls:
+    - foo-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-03-02T20:01:46.511245339+01:00"
